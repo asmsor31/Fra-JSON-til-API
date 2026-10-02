@@ -1,0 +1,30 @@
+{
+  "artister": [
+    {
+      "navn": "Aurora",
+      "sjanger": "Pop",
+      "album": [
+        "All My Demons Greeting Me as a Friend"
+      ]
+    }, 
+    {
+      "navn": "Toby Fox",
+      "sjanger": ["videospillmusikk", "chiptune"],
+      "album": [
+        "UNDERTALE Soundtrack",
+        "DELTARUNE Chapter 1",
+        "DELTARUNE Chapter 2",
+        "DELTARUNE Chapter 3+4",
+        "DELTARUNE Chapter 5"
+      ]
+    },
+    {
+      "navn": "Eminem",
+      "sjanger": ["hiphop", "rap"],
+      "album": [
+        "The Slim Shady LP",
+        "Recovery"
+      ]
+    }
+  ]
+}

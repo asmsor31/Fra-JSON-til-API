@@ -1,0 +1,1 @@
+Jeg bare valgte noen tilfeldige artister og album.

@@ -1,0 +1,36 @@
+h1{
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: rgb(30, 56, 41);
+}
+
+h5{
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: rgb(30, 56, 41);
+}
+
+
+div{
+  text-align: center;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(51, 140, 84);
+}
+ 
+header{
+  background-color: rgb(51, 140, 84);
+  color: white;
+  font-family: Arial rgb(51, 140, 84);
+  font-size: 40px;
+  text-align: center;
+  height: 90vh;
+}
+ 
+main{
+  width: 75%;
+  margin: auto;
+  background-color: white;
+}
